@@ -1,0 +1,10 @@
+{
+  "name": "@distributeaid/shared-configs",
+  "version": "1.0.0",
+  "description": "Shared configuration files for Distribute Aid's projects",
+  "main": "index.js",
+  "repository": "git@github.com:distributeaid/shared-configs.git",
+  "author": "Maxime Preaux",
+  "license": "MIT",
+  "private": false
+}
