@@ -1,5 +1,5 @@
 {
-  "name": "@distributeaid/shared-configs",
+  "name": "@distributeaid/shared-config",
   "version": "1.0.0",
   "description": "Shared configuration files for Distribute Aid's projects",
   "main": "index.js",
